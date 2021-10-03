@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="newProj_demoqa_forms_TestCases.TC01_OpenForms">
+        <methods>
+          <include name="tc01_openForms"/>
+        </methods>
+      </class> <!-- newProj_demoqa_forms_TestCases.TC01_OpenForms -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
